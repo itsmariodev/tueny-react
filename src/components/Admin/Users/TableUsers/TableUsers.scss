@@ -1,0 +1,15 @@
+.table-users-admin {
+    td {
+        &.estado {
+            .icon {
+                &.close {
+                    color: red;
+                }
+
+                &.check {
+                    color: green;
+                }
+            }
+        }
+    }
+}

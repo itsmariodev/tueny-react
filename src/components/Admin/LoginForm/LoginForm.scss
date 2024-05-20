@@ -1,0 +1,14 @@
+.login-form-admin {
+  .ui.button.primary {
+    margin-top: 20px;
+  }
+
+  .input-error {
+    border-color: red; // Cambia el color del borde a rojo
+    color: red; // Cambia el color del texto a rojo
+  }
+}
+
+.estiloError {
+  color: rgb(233, 27, 27) !important;
+}
